@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e19d050-4f35-d7a0-8523-c7b85ec9348b
 resourcetype: Document
 title: 'Exercise III: Material Deployment Investigation'
 uid: 0775b223-9495-562b-1227-2deeb20b5881

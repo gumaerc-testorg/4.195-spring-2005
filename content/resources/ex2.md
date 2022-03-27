@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e19d050-4f35-d7a0-8523-c7b85ec9348b
 resourcetype: Document
 title: 'Exercise II : House Analysis'
 uid: d8476dd9-86c8-21d3-5797-1030c17e9755

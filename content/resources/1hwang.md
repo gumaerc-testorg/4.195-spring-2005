@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 205994c7-198d-9bd8-636b-b61b9b3feb2f
 resourcetype: Document
 title: Margaret Hwang
 uid: d3ec286f-4518-8938-0a16-f8fef14ffbe3

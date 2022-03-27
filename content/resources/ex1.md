@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e19d050-4f35-d7a0-8523-c7b85ec9348b
 resourcetype: Document
 title: 'Exercise II: Diagramming'
 uid: efe26c3a-6541-4dda-6c43-cc20bc1cfe64

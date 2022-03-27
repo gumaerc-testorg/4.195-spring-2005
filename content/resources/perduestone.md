@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 205994c7-198d-9bd8-636b-b61b9b3feb2f
 resourcetype: Document
 title: Stone House, Tavole Italy
 uid: 56256db4-1334-1a35-68b9-015cdc0912f1
