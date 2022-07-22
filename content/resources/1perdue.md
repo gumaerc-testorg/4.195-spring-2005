@@ -5,6 +5,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/e4dc01
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Stephen Perdue
 uid: e4dc012c-b92a-2893-c3a7-61a13355c438
 ---
 Student work for Exercise 1: Diagramming courtesy of Stephen Perdue.
-

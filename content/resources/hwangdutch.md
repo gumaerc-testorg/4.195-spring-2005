@@ -5,6 +5,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/c03469
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: d u t c h h o u s e
 uid: c0346950-b370-f48a-0b37-8a7328e820d3
 ---
 Student's final presentation for the House Analysis assignment.
-

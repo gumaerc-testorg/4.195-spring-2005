@@ -5,6 +5,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/56256d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Stone House, Tavole Italy
 uid: 56256db4-1334-1a35-68b9-015cdc0912f1
 ---
 Student's final presentation for House Analysis assignment.
-

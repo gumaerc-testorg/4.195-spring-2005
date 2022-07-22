@@ -6,6 +6,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/89f833
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Casey Renner
 uid: 89f8333a-7037-8c6f-180e-ebf6e1721383
 ---
 Student work for Exercise 3: Material Deployment Investigation courtesy of Casey Renner.
-

@@ -6,6 +6,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/4d43ab
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Margaret Hwang
 uid: 4d43ab50-ddb0-7cd7-40e0-ecb697872cea
 ---
 Student work for Exercise 3: Material Deployment Investigation courtesy of Margaret Hwang.
-

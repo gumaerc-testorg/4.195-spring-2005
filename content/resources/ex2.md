@@ -6,6 +6,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/d8476d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Exercise II : House Analysis'
 uid: d8476dd9-86c8-21d3-5797-1030c17e9755
 ---
 Assignment to reveal, through an analytic process of diagramming, the "structure" of a building.
-

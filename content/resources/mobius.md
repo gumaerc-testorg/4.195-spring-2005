@@ -5,6 +5,7 @@ file: /courses/4-195-special-problems-in-architectural-design-spring-2005/e84527
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Mobius House
 uid: e845277a-e41c-fa4d-d70c-8e8325724753
 ---
 Student's final presentation for House Analysis assignment.
-
