@@ -3,6 +3,7 @@ content_type: resource
 description: 'Assignment on the logic of material performance and its incorporation
   within the design process. '
 file: /courses/4-195-special-problems-in-architectural-design-spring-2005/0775b2239495562b12272deeb20b5881_ex3.pdf
+file_size: 19850
 file_type: application/pdf
 learning_resource_types:
 - Assignments
