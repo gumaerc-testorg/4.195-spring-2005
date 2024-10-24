@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Student work for Exercise 3: Material Deployment Investigation courtesy
   of Casey Renner.'
-file: /courses/4-195-special-problems-in-architectural-design-spring-2005/89f8333a70378c6f180eebf6e1721383_3rener.pdf
+file: /ol-ocw-studio-app/courses/4-195-special-problems-in-architectural-design-spring-2005/89f8333a70378c6f180eebf6e1721383_3rener.pdf
 file_size: 1400031
 file_type: application/pdf
 learning_resource_types:
