@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student's final presentation for the House Analysis assignment.
-file: /ol-ocw-studio-app/courses/4-195-special-problems-in-architectural-design-spring-2005/c0346950b370f48a0b378a7328e820d3_hwangdutch.pdf
+file: /courses/4-195-special-problems-in-architectural-design-spring-2005/c0346950b370f48a0b378a7328e820d3_hwangdutch.pdf
 file_size: 428300
 file_type: application/pdf
 learning_resource_types:

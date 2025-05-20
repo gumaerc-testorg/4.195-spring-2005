@@ -2,7 +2,7 @@
 content_type: resource
 description: Presentation by a higher-level student invited to the class to show work
   similar to what was assigned.
-file: /ol-ocw-studio-app/courses/4-195-special-problems-in-architectural-design-spring-2005/106d6fd451d612ef52c266b7efd33405_1austin.pdf
+file: /courses/4-195-special-problems-in-architectural-design-spring-2005/106d6fd451d612ef52c266b7efd33405_1austin.pdf
 file_size: 3078865
 file_type: application/pdf
 learning_resource_types:
