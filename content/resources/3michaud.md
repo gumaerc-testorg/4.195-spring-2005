@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Student work for Exercise 3: Material Deployment Investigation courtesy
   of Dennis Michaud.'
-file: /ol-ocw-studio-app/courses/4-195-special-problems-in-architectural-design-spring-2005/8931715f1e4875ff0359795d7ffe40d1_3michaud.pdf
+file: /courses/4-195-special-problems-in-architectural-design-spring-2005/8931715f1e4875ff0359795d7ffe40d1_3michaud.pdf
 file_size: 1446965
 file_type: application/pdf
 learning_resource_types:

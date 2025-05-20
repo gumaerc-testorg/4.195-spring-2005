@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Student work for Exercise 3: Material Deployment Investigation courtesy
   of Stephen Perdue.'
-file: /ol-ocw-studio-app/courses/4-195-special-problems-in-architectural-design-spring-2005/175d4f04dcfe99a19bd4c5b21d170b02_3perdue.pdf
+file: /courses/4-195-special-problems-in-architectural-design-spring-2005/175d4f04dcfe99a19bd4c5b21d170b02_3perdue.pdf
 file_size: 2216664
 file_type: application/pdf
 learning_resource_types:
