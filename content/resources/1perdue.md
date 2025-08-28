@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Student work for Exercise 1: Diagramming courtesy of Stephen Perdue.'
-file: /courses/4-195-special-problems-in-architectural-design-spring-2005/e4dc012cb92a2893c3a761a13355c438_1perdue.pdf
+file: /ol-ocw-studio-app/courses/4-195-special-problems-in-architectural-design-spring-2005/e4dc012cb92a2893c3a761a13355c438_1perdue.pdf
 file_size: 1801881
 file_type: application/pdf
 learning_resource_types:
